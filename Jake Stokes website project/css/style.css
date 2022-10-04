@@ -262,6 +262,18 @@ img {
   font-size: 17px;
 }
 
+.iframe1{
+width: 425px;
+height: 350px;
+border: 0px;
+}
+
+.iframe2{
+  width:560px; 
+height: 315px;
+border: 0px;
+}
+
 /* Footer */
 .footer .social a {
   margin: 0 10px;
